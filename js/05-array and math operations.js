@@ -104,8 +104,5 @@ totalSum4 += marks[index];
 console.log(totalSum4);
 
 index += 1;
-totalSum4 += marks[index];
-console.log(totalSum4);
-
 const average4 = totalSum4 / marks.length;
 console.log(average4);
